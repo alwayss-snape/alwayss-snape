@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @alwayss-snape
-- 👀 I’m interested in Data Analytics(Data Science),Cloud Computing and DevOps 
-- 🌱 I’ve graduated college, and am ready to explore the world of Data
-- 💞️ I’m looking to collaborate on various Python Data Science and cloud computing projects
+- I love numbers!
 - 📫 Reach me at ikshitij.chaubey@gmail.com
 
 <!---
